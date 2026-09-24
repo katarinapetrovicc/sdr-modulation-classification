@@ -305,7 +305,7 @@ models/
 
 Modeli se mogu ponovo generisati odgovarajućim skriptama za obuku.
 
-Velike `.pkl` datoteke nisu neophodno uključene u repozitorijum.
+Velike `.pkl` datoteke nisu uključene u repozitorijum.
 
 ---
 
@@ -329,7 +329,7 @@ Skripta:
 
 implementira obradu i klasifikaciju FM signala u realnom vremenu.
 
-Sistem radi sa blokovima I/Q uzoraka i zasebnim postupcima prijema i obrade kako bi se procenila mogućnost primene klasifikacionog modela u **real-time uslovima**.
+Sistem radi sa blokovima I/Q uzoraka i zasebnim postupcima prijema i obrade kako bi se procenila mogućnost primene klasifikacionog modela u real-time uslovima.
 
 ---
 
