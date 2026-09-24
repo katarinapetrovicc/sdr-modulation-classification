@@ -7,4 +7,4 @@ pyrtlsdr==0.4.0
 h5py
 joblib
 soundfile
-seaborngit add requirements.txt
+seaborn
