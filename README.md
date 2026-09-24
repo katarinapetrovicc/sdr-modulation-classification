@@ -4,7 +4,7 @@ Ovaj repozitorijum sadrži izvorni kod korišćen u okviru master rada:
 
 **„Primena softverski definisanog radija za detekciju, analizu i klasifikaciju radio-signala primenom metoda digitalne obrade signala i mašinskog učenja“**
 
-Cilj projekta je detekcija, analiza i klasifikacija radio-signala korišćenjem **SDR prijemnika**, metoda **digitalne obrade signala (DSP)** i algoritama **mašinskog učenja**.
+Cilj projekta je detekcija, analiza i klasifikacija radio-signala korišćenjem SDR prijemnika, metoda digitalne obrade signala (DSP) i algoritama mašinskog učenja.
 
 ## Modulacione klase
 
